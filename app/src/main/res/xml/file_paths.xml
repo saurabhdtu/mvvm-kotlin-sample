@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external_files"
+        path="." />
+    <files-path
+        name="my_docs"
+        path="." />
+    <external-files-path
+        name="pictures"
+        path="/Android/data/com.locus.assignment/files/Pictures" />
+</paths>
